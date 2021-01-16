@@ -1,1 +1,1 @@
-// basic rock paper scissors game
+basic rock paper scissors game
